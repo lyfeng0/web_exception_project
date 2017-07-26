@@ -141,7 +141,7 @@
      <artifactId>tomcat-maven-plugin</artifactId>
      <version>1.1</version>
      <configuration>
-     <url>http://localhost:8080/manager/text</url>
+     <url>http://localhost:8085/manager/text</url>
      <server>tomcat7</server>
      <username>admin</username>  
      <password>password</password>  
